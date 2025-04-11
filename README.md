@@ -54,7 +54,7 @@
 
 <br>
 
-## 🐍 G	racias por ver Nuestro repositorio
+## 🐍 G	racias Por Ver Nuestro Repositorio
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
