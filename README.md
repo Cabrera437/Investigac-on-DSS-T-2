@@ -13,7 +13,7 @@
     <td>Xenia Sánchez</td>
     <td>Yesenia Hernández</td>
     <td></td>
-    <td></td>
+    <td>Omar Maldonado</td>
 
   
   </tr>
