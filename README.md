@@ -11,7 +11,7 @@
    <td>Mario Cabrera</td>
     <td>Nelson Murcia</td>
     <td>Xenia Sánchez</td>
-    <td></td>
+    <td>Yesenia Hernández</td>
     <td></td>
     <td></td>
 
