@@ -10,7 +10,7 @@
   <tr align="center">
    <td>Mario Cabrera</td>
     <td>Nelson Murcia</td>
-    <td></td>
+    <td>Xenia Sánchez</td>
     <td></td>
     <td></td>
     <td></td>
