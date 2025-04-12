@@ -12,7 +12,7 @@
     <td>Nelson Murcia</td>
     <td>Xenia Sánchez</td>
     <td>Yesenia Hernández</td>
-    <td></td>
+    <td>Cristina Perez</td>
     <td>Omar Maldonado</td>
 
   
