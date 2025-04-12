@@ -24,7 +24,7 @@
     <td> <br> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> </td>
     <td><br><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> </td>
     <td><br><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> </td>
-
+    
 
 
 
@@ -44,6 +44,7 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=flat&logo=xampp&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat&logoColor=white)
 ![ GitHub](https://img.shields.io/badge/GitHub-gray?style=flat&logo=github)
+![Composer](https://img.shields.io/badge/Composer-blue?style=flat&logo=Composer&logoColor=black)
 
 <br>
 
