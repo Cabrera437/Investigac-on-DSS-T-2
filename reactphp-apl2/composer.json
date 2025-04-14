@@ -1,0 +1,23 @@
+{
+    "name": "murcia/reactphp-apl2",
+    "autoload": {
+        "psr-4": {
+            "Murcia\\ReactphpApl2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Murcia",
+            "email": "nelsonricardomurcia2001@gmail.com"
+        }
+    ],
+    "require": {
+        "react/http": "^1.11",
+        "react/filesystem": "*"
+    },
+    "config": {
+        "allow-plugins": {
+            "wyrihaximus/composer-update-bin-autoload-path": true
+        }
+    }
+}
