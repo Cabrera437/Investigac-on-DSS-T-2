@@ -50,6 +50,7 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"><b>Archivos Imporatntes</b>
+ [📌Documento  de investigacion📖](https://drive.google.com/file/d/1Zn_f43GipHU_EYPXkT_FMp-7qFso6Hlv/view?usp=sharing)
 <p align="center">
 
 
