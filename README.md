@@ -10,15 +10,12 @@
 > para la  terminal CMD debe acceder a la siguiente ruta C:\xampp\htdocs\reactphp-apl2<br>
 > para la terminal de visual solo abrimos nuestro visual y creamos una nueva terminal<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 > [!IMPORTANT]
 > Comanndos<br>
 > composer require react/http<br>
 > php index.php
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><b> Equipo de Desarrollo</b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div style={padding: 10px}>
   <table style={margin: 0 auto}>
@@ -40,7 +37,6 @@
     <td><br><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> </td>
     <td><br><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> </td>
     
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 
