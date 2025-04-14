@@ -14,6 +14,7 @@
 
 > [!IMPORTANT]
 > Comanndos<br>
+composer install<br> 
 > composer require react/http<br>
 > php index.php
 > 
