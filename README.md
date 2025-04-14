@@ -1,9 +1,24 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h1 align="center"><b>Bienvenido a nuestro Repositorio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+> [!IMPORTANT]
+> para ejecutar este proyecto se necesita tener composer instalado<br>
+> y ejecutar los siguientes comandos por la termimnal CMD<br>
+> O Por la terminal de Visual studio Code<br
+> para la  terminal CMD debe acceder a la siguiente ruta C:\xampp\htdocs\reactphp-apl2<br>
+> para la terminal de visual solo abrimos nuestro visual y creamos una nueva terminal<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+> [!IMPORTANT]
+> Comanndos<br>
+> composer require react/http<br>
+> php index.php
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><b> Equipo de Desarrollo</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div style={padding: 10px}>
   <table style={margin: 0 auto}>
@@ -25,6 +40,7 @@
     <td><br><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> </td>
     <td><br><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> </td>
     
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 
@@ -47,6 +63,7 @@
 ![Composer](https://img.shields.io/badge/Composer-blue?style=flat&logo=Composer&logoColor=black)
 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"><b>Archivos Imporatntes</b>
