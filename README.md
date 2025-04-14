@@ -7,7 +7,7 @@
 > [!IMPORTANT]
 > para ejecutar este proyecto se necesita tener composer instalado<br>
 > y ejecutar los siguientes comandos por la termimnal CMD<br>
-> O Por la terminal de Visual studio Code<br
+> O Por la terminal de Visual studio Code<br>
 > para la  terminal CMD debe acceder a la siguiente ruta C:\xampp\htdocs\reactphp-apl2<br>
 > para la terminal de visual solo abrimos nuestro visual y creamos una nueva terminal<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
