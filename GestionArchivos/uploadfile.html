@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <title>Subir múltiples archivos</title>
+    <style>
+        /* Estilos generales */
+        body {
+            font-family: 'Times New Roman', serif;
+            background: linear-gradient(to right, #4a90e2, #8e44ad);
+            color: white;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        section {
+            padding: 29px;
+        }
+        /* Estilos para el formulario */
+        form {
+            background-color: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+        form h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #fff;
+        }
+        .contenedor {
+            display: flex;
+            align-items: center;
+            margin-bottom: 50px;
+        }
+        .file-upload {
+            position: relative;
+            overflow: hidden;
+            display: inline-block;
+            cursor: pointer;
+        }
+        .file-upload input[type="file"] {
+            position: absolute;
+            left: 0;
+            top: 0;
+            opacity: 0;
+            cursor: pointer;
+        }
+        .file-upload .span {
+            background-color: #5226cb;
+            color: white;
+            padding: 8px 12px;
+            border-radius: 10px;
+            font-size: 18px;
+        }
+        #uploadFile0 {
+            flex-grow: 1;
+            padding: 8px 12px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 14px;
+            margin-right: 10px;
+            background-color: rgba(255, 255, 255, 0.2);
+            color: white;
+        }
+        #addfieldlink {
+            display: block;
+            text-align: right;
+            color: #0d94c9;
+            text-decoration: none;
+            font-size: 14px;
+            margin-top: 10px;
+        }
+        #envia, #addfieldlink {
+            background-color: #187993;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+            text-align: center;
+            display: inline-block;
+            margin-top: 10px;
+        }
+        #envia:hover, #addfieldlink:hover {
+            background-color: #18406b;
+        }
+    </style>
+    <script src="js/upload.js"></script>
+</head>
+<body>
+    <section>
+        <article>
+            <form name="formu" id="formu" action="upload.php" method="POST" enctype="multipart/form-data">
+                <dl>
+                    <dt>
+                        <h2>Archivos a Subir:</h2>
+                    </dt>
+                    <dd>
+                        <div id="conteGeneral">
+                            <div class="contenedor">
+                                <input type="text" id="uploadFile0" placeholder="Seleccionar archivo" disabled="disabled" />
+                                <div id="adjuntos" class="file-upload btn">
+                                    <span class="btn btn-primary span" id="spanadj">Adjunto</span>
+                                    <input type="file" name="archivos[]" id="uploadBtn0" class="upload" /><br />
+                                </div>
+                            </div>
+                        </div>
+                    </dd>
+                    <dt>
+                        <a href="javascript:void(0);" id="addfieldlink">Subir otro archivo</a>
+                    </dt>
+                    <dd>
+                        <input type="submit" value="Enviar" id="envia" name="envia" class="btn btndefault" />
+                    </dd>
+                </dl>
+            </form>
+        </article>
+    </section>
+</body>
+</html>
+
